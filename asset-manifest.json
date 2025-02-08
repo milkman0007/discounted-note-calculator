@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/discounted-note-calculator/static/js/main.d7cbace3.js",
+    "index.html": "/discounted-note-calculator/index.html",
+    "main.d7cbace3.js.map": "/discounted-note-calculator/static/js/main.d7cbace3.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d7cbace3.js"
+  ]
+}
